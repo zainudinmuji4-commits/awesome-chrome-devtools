@@ -1,3 +1,5 @@
+psexec [\\\\computer[,computer2[,...] | @file]][-u user [-p psswd]][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c [-f|-v]][-w directory][-d][-<priority>][-g n][-a n,n,...][-accepteula][-nobanner] cmd [arguments]
+
 # Awesome Chrome DevTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
